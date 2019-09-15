@@ -1,1 +1,2 @@
 i commit that login should happen
+add company logo
